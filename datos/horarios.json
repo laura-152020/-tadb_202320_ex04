@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "654705e365eb6e8f4eac7d9b"
+  },
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00"
+},
+{
+  "_id": {
+    "$oid": "654706f99e82f7d704ae18ba"
+  },
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00"
+},
+{
+  "_id": {
+    "$oid": "6547d9e13225e266963a312a"
+  },
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00"
+},
+{
+  "_id": {
+    "$oid": "6547e228a2a62ff32a31cf47"
+  },
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00"
+},
+{
+  "_id": {
+    "$oid": "6547f01bc36f236a997aadf5"
+  },
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00"
+}]

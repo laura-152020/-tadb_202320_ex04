@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "654704859fc0f12f9d780248"
+  },
+  "id_cargador": "ID_CARGADOR",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547e20954d5c62be331d41e"
+  },
+  "id_cargador": "ID_CARGADOR",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547e213fb3961ada0cc5cec"
+  },
+  "id_cargador": "ID_CARGADOR",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547f0369828dcd36d7e6089"
+  },
+  "id_cargador": "ID_CARGADOR",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+}]

@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6547003c0f661887ff29371a"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "654700d25980d013b60dae3a"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "654701503c8a97811398d0f1"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547052c17261f75dfa0558f"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547e0cdeca8117fee062c84"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547e1bc4bb93389e122dab6"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547e22007c5eb43cfaccf4a"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547ef89301d7bf784ed83a0"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547efbc55d20284357bf31c"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547f0073503803dd809f2a8"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+},
+{
+  "_id": {
+    "$oid": "6547f02dd187d52b0a9b6e66"
+  },
+  "id_autobus": "ID_AUTOBUS",
+  "id_horario": "ID_HORARIO",
+  "fecha": "2023-11-04"
+}]

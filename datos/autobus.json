@@ -1,0 +1,46 @@
+[
+  {
+    "_id": {
+      "$oid": "6546e807c0a3ba6990c830dd"
+    },
+    "placa": "ABC123"
+  },
+  {
+    "_id": {
+      "$oid": "6546fb1fdf46a2c3b3a68843"
+    },
+    "placa": "ABC123",
+    "programaciones": []
+  },
+  {
+    "_id": {
+      "$oid": "6547053ac8d9bdc9972197ab"
+    },
+    "placa": "ABC123",
+    "programaciones": []
+  },
+  {
+    "_id": {
+      "$oid": "6547d820477e091e65d58437"
+    },
+    "placa": "ABC123"
+  },
+  {
+    "_id": {
+      "$oid": "6547e0b36bd572af70c65173"
+    },
+    "placa": "ABC123",
+    "programaciones": []
+  },
+  {
+    "_id": {
+      "$oid": "6547f023bdf4c0da706916fe"
+    },
+    "placa": "ABC123",
+    "programaciones": []
+  },
+  {
+    "_id": null,
+    "placa": "ABC123"
+  }
+]
