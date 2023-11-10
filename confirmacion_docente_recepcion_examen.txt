@@ -4,7 +4,7 @@ Programas de Ingeniería en Sistemas e Informática – Ingeniería en Ciencia d
 Curso de Tópicos Avanzados de Base de Datos
 NRC: 19525, 17461, 18089 – Periodo 202320
 
-Repositorio recibido como entrega del Examen No. 3
-Octubre 13 de 2023
+Repositorio recibido como entrega del Examen No. 4
+Noviembre 10 de 2023
 
 Docente: Juan Dario Rodas - juand.rodasm@upb.edu.co
